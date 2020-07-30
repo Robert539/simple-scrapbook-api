@@ -10,7 +10,7 @@
     "uuidv4": "^6.2.0"
   },
   "scripts": {
-    "dev": "nodemon src/main.js"
+    "dev": "nodemon index.js"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
